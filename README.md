@@ -8,7 +8,7 @@
 Resuminator allows you to build beautiful single-page resumes; without the hassle. Resuminator gives you fastest and the simplest resume building experience. Save hours of frustation, seize the day.
   
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/resuminator/resuminator?style=flat-square)
-![Twitter Follow](https://img.shields.io/twitter/follow/resuminator?style=social)
+![Twitter Follow](https://twitter.com/intent/follow?screen_name=resuminator)
 
 </div>
 
